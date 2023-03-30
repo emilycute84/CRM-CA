@@ -1,0 +1,15 @@
+# 📊 Thống kê sản phẩm
+
+* Giúp theo dõi mức tăng trưởng tài khoản và sản phẩm của từng đại lý
+
+## Thống kê tài khoản:
+
+* Trong thống kê tài khoản, người dùng có thể lọc theo **Tài khoản** và **Thời gian**.
+
+<figure><img src="../.gitbook/assets/23.png" alt=""><figcaption></figcaption></figure>
+
+## Thống kê sản phẩm:
+
+* Trong thống kê sản phẩm, người dùng có thể lọc theo **Tài khoản** và **Thời gian**.
+
+<figure><img src="../.gitbook/assets/24.png" alt=""><figcaption></figcaption></figure>
