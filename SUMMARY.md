@@ -12,16 +12,21 @@
 
 ## Quản lý Tài khoản
 
-* [🛠 Quản lý Tài khoản](quan-ly-tai-khoan/quan-ly-tai-khoan.md)
+* [🔎 Tìm kiếm](quan-ly-tai-khoan/tim-kiem.md)
+* [🆕 Thêm mới](quan-ly-tai-khoan/them-moi.md)
 
 ## Quản lý Sản phẩm
 
-* [📦 Quản lý SP](quan-ly-san-pham/quan-ly-sp.md)
+* [🔎 Tìm kiếm](quan-ly-san-pham/tim-kiem.md)
+* [🆕 Thêm mới](quan-ly-san-pham/them-moi.md)
 
 ## Chia sẻ dữ liệu
 
-* [🤝 Chia sẻ](chia-se-du-lieu/chia-se.md)
+* [🤝 Chia sẻ dữ liệu](chia-se-du-lieu/chia-se-du-lieu.md)
+* [🔀 Chọn dữ liệu muốn chia sẻ](chia-se-du-lieu/chon-du-lieu-muon-chia-se.md)
+* [📈 Xem dữ liệu được tài khoản khác chia sẻ](chia-se-du-lieu/xem-du-lieu-duoc-tai-khoan-khac-chia-se.md)
 
 ## Thống kê
 
 * [📊 Thống kê sản phẩm](thong-ke/thong-ke-san-pham.md)
+* [💳 Thống kê tài khoản](thong-ke/thong-ke-tai-khoan.md)

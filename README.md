@@ -1,12 +1,14 @@
 ---
 description: Tổng quan về Dự án Hệ thống Quản lý đại lý Bkav
+cover: .gitbook/assets/Screenshot 2023-03-30 145422.png
+coverY: 229
 ---
 
 # 📔 HƯỚNG DẪN SỬ DỤNG HỆ THỐNG WEBSITE HỖ TRỢ ĐẠI LÝ BKAV
 
 ## Khái niệm:
 
- Mô hình hệ thống **Quản lý đại lý Bkav**
+1. Mô hình hệ thống **Quản lý đại lý Bkav**
 
 <figure><img src=".gitbook/assets/25.png" alt=""><figcaption></figcaption></figure>
 
@@ -15,7 +17,7 @@ description: Tổng quan về Dự án Hệ thống Quản lý đại lý Bkav
 * **App:** ứng dụng trên mobile cho phép tạo đơn đặt hàng, theo dõi đơn hàng, sản phẩm, công nợ
 * **SBG:** hệ thống nhận thông tin từ Web và gửi tin nhắn SMS cho người dùng
 
- **Danh sách sản phẩm phát triển hệ thống kênh đại lý:**
+2. **Danh sách sản phẩm phát triển hệ thống kênh đại lý:**
 
 * Dịch vụ chữ ký số Bkav CA (CA)
 * Dịch vụ hóa đơn điện tử Bkav eHoadon (eHoadon)
